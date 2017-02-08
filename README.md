@@ -1,7 +1,7 @@
 # DSA
 DSA
 
-The code will be upload after the paper has been published
+In order to facilitate comparison, this project still remains SparkSW code. There will be removed after the paper published.
 
 ##prepare
 we should prepare before run DSA.
