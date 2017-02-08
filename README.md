@@ -3,7 +3,16 @@ DSA
 
 The code will be upload after the paper has been published
 
+##prepare
+we should prepare before run DSA.
+###1. Apache Spark
+Please refer: https://github.com/apache/spark
+###2. Alluxio
+Please refer: http://www.alluxio.org/
+###3. SSW
+Please refer: https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library
 
+We should obtain libsswjni.so, and libssw.so.
 ##run
 
     spark-submit \
