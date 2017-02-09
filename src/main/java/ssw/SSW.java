@@ -41,8 +41,8 @@ public class SSW {
 //        }
 //        Alignment aln = Aligner.align(query.getBytes(), ref.getBytes(), score, 3, 1, true);
 //        System.out.println("Aligning nucleotides");
-//        Alignment aln = Aligner.align(query.getBytes(), ref.getBytes(), scoreMatrix, 12, 2, true);
-        Alignment aln = Aligner.align(query.getBytes(), ref.getBytes(), scoreMatrix62, 11, 1, true);
+        Alignment aln = Aligner.align(query.getBytes(), ref.getBytes(), scoreMatrix, 12, 2, true);
+//        Alignment aln = Aligner.align(query.getBytes(), ref.getBytes(), scoreMatrix62, 11, 1, true);
         if (aln == null) {
             throw new RuntimeException();
         }
