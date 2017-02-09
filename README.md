@@ -1,5 +1,8 @@
-# DSA
-DSA
+
+#DSA
+DSA: Scalable Distributed Sequence Alignment System Using SIMD Instructions
+
+DSA's paper has beed accepted by CCGRID 2017.
 
 In order to facilitate comparison, this project still remains SparkSW code. There will be removed after the paper published.
 
