@@ -8,13 +8,13 @@ In order to facilitate comparison, this project still remains SparkSW code. Ther
 
 ##prepare
 we should prepare before run DSA.
-###1. Apache Spark
+###1. Apache Spark   
 Please refer: https://github.com/apache/spark
-###2. Alluxio
+###2. Alluxio   
 Please refer: http://www.alluxio.org/
-###3.Adam
+###3.Adam   
 Please refer: https://github.com/bigdatagenomics/adam
-###4. SSW
+###4. SSW   
 Please refer: https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library
 
 We should obtain libsswjni.so, and libssw.so and put to /AlluxioPath/JNIlib.
